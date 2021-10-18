@@ -15,7 +15,7 @@ class CfgPatches {
 
 // SteamID64 of players authorized to access admin tools (matches against getPlayerUID)
 class GVAR(authorized_players) {
-    class Superjam {
+    class SuperJam {
         uid = "76561198041931247";
     };
     class DesertCyclone {
